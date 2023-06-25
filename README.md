@@ -7,3 +7,5 @@ Task: develop a program that provides classification of a dataset downloaded fro
 - evaluate the classification accuracy of the neural network;
 - experiment with several neural network structures;
 - train a convolutional or recurrent neural network.
+
+[Link to dataset on Kaggle](https://www.kaggle.com/datasets/aymenkhouja/timeofdaydataset)
